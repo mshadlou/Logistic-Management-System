@@ -11,4 +11,5 @@ LMS was designed to be responsible for the future demands of the company on mana
   <li>Clearing up the server's catch occationally to increase the service efficiencies</li> 
   <li>Admins and employees (depending on their level of access) can add, edit, update, search and delete logistics, absences, parts of machines, availibities of employees depending on their skills for specific tasks on specific date, set for specific shift and availbility of machine</li>
   <li>Increasing efficiencies on processing orders and demands and transferring quick service to customers</li>
+  <li>presenting two sets of calendars; (a) employees-dates, filled by the logistics, warehous, project data, (b) logistic-date, filled by employee, project, and warehouse data</li>
 </ul>
