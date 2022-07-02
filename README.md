@@ -14,5 +14,5 @@ LMS was designed to be responsible for the future demands of the company on mana
   <li>presenting two sets of calendars; (a) employees-dates, filled by the logistics, warehous, project data, (b) logistic-date, filled by employee, project, and warehouse data</li>
 </ul>
 
-<img src="/Figures/Create-Edit-Project.jpg" alt="Alt text" title="Create/Edit projects" width=400>
-<img src="/Figures/Rig-moves.jpg" alt="Alt text" title="Rig moves" width=400>
+<img src="/Figures/Create-Edit-Project.jpg" alt="Alt text" title="Create/Edit projects">
+<img src="/Figures/Rig-moves.jpg" alt="Alt text" title="Rig moves">
