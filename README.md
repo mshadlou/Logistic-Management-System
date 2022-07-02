@@ -1,6 +1,6 @@
 # Logistic Management System (LMS)
 
-This project was designed and deployed for a small company (20-40 employees) which intended to grow the business and connect Microsoft SharePoint (which serves the data of customers, previous projects, assets, logistics, parts, modes, shifts, employees, availibities, etc ) to a new infrastructure for making the full data accessible by several admin accounts and employees (with different level of access) on-demand. <br>
+This project was designed and deployed for a company (20-40 employees) which intended to grow the business and connect Microsoft SharePoint (which serves the data of customers, previous projects, assets, logistics, parts, modes, shifts, employees, availibities, etc ) to a new infrastructure for making the full data accessible by several admin accounts and employees (with different level of access) on-demand. <br>
 LMS was designed to be responsible for the future demands of the company on managing assets (warehouse, logistics and human resources) as well as adding the security and the connection of the server to the Microsoft Share Point (MSP) of the company which hosts the additional details of the projects and assets. Put simply, Logistic, warehouse and employee management systems were all included in this LMS project. According to the business constraints and non-relational nature of the MSP database, NDBMS was used by integrating MongoDB and its connection to a cloud-based DBMS. Responsive front-end and complex back-end engines were designed and implemented to address several key features as mentioned below. MEAN Stack technology (MongoDB, Express, Angular and Node.js) was employed for implementing the architectural design and DBs.
 <ul>
   <li>Authentication and authorization as well as user validation</li>
@@ -13,3 +13,6 @@ LMS was designed to be responsible for the future demands of the company on mana
   <li>Increasing efficiencies on processing orders and demands and transferring quick service to customers</li>
   <li>presenting two sets of calendars; (a) employees-dates, filled by the logistics, warehous, project data, (b) logistic-date, filled by employee, project, and warehouse data</li>
 </ul>
+
+<img src="/Figures/Create-Edit-Project.jpg" alt="Alt text" title="Create/Edit projects" width=400>
+<img src="/Figures/Rig-moves.jpg" alt="Alt text" title="Rig moves" width=400>
