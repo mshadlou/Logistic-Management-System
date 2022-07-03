@@ -26,6 +26,9 @@ src/
 |-auth.js
 |-config.js
 |-sharepoint.js
+|-package.json
+|-certs/
+|-node_modules/
 |-project/
 |----config.js
 |----controllers/
