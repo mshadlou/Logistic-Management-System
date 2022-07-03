@@ -20,5 +20,12 @@ LMS was designed to be responsible for the future demands of the company on mana
 Code structure is as following<br>
 
 ```
-retaining_wall();
+src/
+|-server.js
+|-db.js
+|-auth.js
+|-config.js
+|-sharepoint.js
+|-project/
+
 ```
