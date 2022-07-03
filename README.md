@@ -17,7 +17,7 @@ LMS was designed to be responsible for the future demands of the company on mana
 <img src="/Figures/Create-Edit-Project.jpg" alt="Alt text" title="Create/Edit projects">
 <img src="/Figures/Rig-moves.jpg" alt="Alt text" title="Rig moves">
 
-Code structure is as following<br>
+Code structure of the deployed app is as following<br>
 
 ```
 src/
