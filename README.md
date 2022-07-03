@@ -49,8 +49,9 @@ src/
 |--------dbrigmoves.js
 |--------dbusers.js
 |--------dbusersession.js
-|--------dbusersession.js
 |--------dberrors.js
+|--------dbparts.js
+|--------dbskills.js
 |--------dblogistics.js
 |--------dbshifts.js
 |--------dbactivities.js
